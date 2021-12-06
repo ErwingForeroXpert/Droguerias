@@ -1,0 +1,15 @@
+Automatizacion Droguerias
+
+Analysis 2 toma informacion y valida con otra base
+DB2 de igual forma
+BD copia y pega las zonas activas
+
+vendedoresxmes son los vendedores de cada mes (Manual)
+indicadores solo se actualiza - Resumen trae informacion de semaforo o la propia hoja
+Evolucion Zonas solo se actualiza
+EJec.pptal - solo se actualiza
+Fundamentales- Buscarv de BD
+TD Ventas trae informacion de 
+Portafolio top10 de ventas en cada mes
+Semaforo se pega la informacion de promedio mes
+ventas historicas - 
