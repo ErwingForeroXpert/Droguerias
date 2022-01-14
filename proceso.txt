@@ -1,15 +1,27 @@
 Automatizacion Droguerias
 
-Analysis 2 toma informacion y valida con otra base
-DB2 de igual forma
-BD copia y pega las zonas activas
+Archivo - Maestra Codigos Especializados actualizan de forma manual (NO automatizacion) - ellos dijeron que cambiarian la columna regional.
+Archivo - Sgto Zonas Especializadas
+1. Actualizar Hoja Vendedores x mes
+1.1 pegar los vendedores repetidos y poner en (F) el mes
+1.2 añadir los nuevos vendedores del mes que se puso
 
-vendedoresxmes son los vendedores de cada mes (Manual)
-indicadores solo se actualiza - Resumen trae informacion de semaforo o la propia hoja
-Evolucion Zonas solo se actualiza
-EJec.pptal - solo se actualiza
-Fundamentales- Buscarv de BD
-TD Ventas trae informacion de 
-Portafolio top10 de ventas en cada mes
-Semaforo se pega la informacion de promedio mes
-ventas historicas - 
+2. Hoja Analysis - se actualiza pero no conozco la herramienta. (observar video)
+2.1 pasan el resultado a otra hoja - para verificar que los codigos si sean de los vendedores que necesitaban (no vendedores especializados BUSCARV)
+2.2 copia y pega la informacion anterior en la hoja BD (correr formula columna Llave y corregir columna MES)
+2.3 traer la informacion del tig para las otras columnas (observar video) "fecha inicio" - vendedores x mes "portafolio" siempre es "MULTIMARCA"
+Buscarv de el Archivo ppto indirecta las columnas siguientes (Dejar solo valores)
+2.4 observar video
+
+3.Indicadores - actualizarlo
+3.1 actualizar las tablas y rango
+4. Actualizar Evloucion Zonas (tablas ocultas fila 14)
+5. Actualizar Ejec. Pptal
+5.1 colocar el mes actual
+6. observar video
+7. Semaforo
+7.1 pegar las primeras 4 columnas de la tabla y los valores de la otra (Insumo Ranking)
+7.2 ejecutar formulas y oculta filas
+
+8. actualizar Analysis 2 y pegar lo del ultimo mes a BD2
+9. Actualizar Ventas Historicas
