@@ -1,4 +1,6 @@
 Dejar dinamico el rango de las tablas dinamicas min 10
 solo traer los registros que contengan codagen y codven que esten en "Lista de Vendedores"
 pasar la informacion de Analysis y pegarla en BD (como valores)
-pegar la Lista de Vendedores al final de BD
+pegar la Lista de Vendedores al final de BD min 27
+
+ 
